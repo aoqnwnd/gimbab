@@ -97,8 +97,8 @@ public class MainUI extends JFrame{
 
        logBtn.addActionListener( new ActionListener() {
            public void actionPerformed(ActionEvent e) {
-               String id = "bareuda";
-               String pass = "rlatjstod";
+               String id = "bareuda"; 		// 바르다
+               String pass = "rlatjstod"; 	// 김선생
                
                if(id.equals(txtID.getText()) &&  pass.equals(txtPass.getText())) {
                	JOptionPane.showMessageDialog( null, "로그인 성공" );
