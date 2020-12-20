@@ -1,0 +1,52 @@
+drop table gimbab;
+create table gimbab(
+    gimbabname varchar2(30),
+    drink varchar2(30),
+    gimbabstock varchar2(90),
+    price number 
+);
+	
+
+col gimbabname for a30;
+col drink for a30;
+col gimbabstock for a90;
+col price for 99999;
+
+commit;
+select * from gimbab;
+
+
+drop table stock;
+create table stock(
+    creamcheese number,
+    muelchoo number,
+    tuna number,
+    jae6 number,
+    donggas number,
+    chicken number,
+    labster number,
+    bulgogi number,
+    shrimp number,
+    jangajji number,
+    almonds number
+);
+
+col creamcheese for 999;
+col muelchoo for 999;
+col tuna for 999;
+col jae6 for 999;
+col donggas for 999;
+col chicken for 999;
+col labster for 999;
+col bulgogi for 999;
+col shrimp for 999;
+col jangajji for 999;
+col almonds for 999;
+
+insert into stock(creamcheese,muelchoo,tuna,jae6,donggas,
+chicken,labster,bulgogi,shrimp,jangajji,almonds)
+values(30,30,30,30,30,30,30,30,30,30,30);
+
+
+commit;
+select * from stock;
