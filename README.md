@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/71866565/109914739-f557c800-7cf3-11eb-93a4-b8c969a1d263.png)
 ![image](https://user-images.githubusercontent.com/71866565/109914765-01438a00-7cf4-11eb-8973-f0cd1adb8c9a.png)
-![image](https://user-images.githubusercontent.com/71866565/109914793-10c2d300-7cf4-11eb-8284-ea4532a125dd.png)
-![image](https://user-images.githubusercontent.com/71866565/109914819-1ae4d180-7cf4-11eb-9345-e2c6a5cefc55.png)
 
 ## 김선생님들
 
