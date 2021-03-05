@@ -1,5 +1,4 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/71866565/110090317-7d180200-7dda-11eb-8513-64d0ece6f84a.gif)
-![image](https://user-images.githubusercontent.com/71866565/109914739-f557c800-7cf3-11eb-93a4-b8c969a1d263.png)
 ![image](https://user-images.githubusercontent.com/71866565/109914765-01438a00-7cf4-11eb-8973-f0cd1adb8c9a.png)
 
 ## 김선생님들
